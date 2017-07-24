@@ -1,0 +1,22 @@
+button {
+    margin: 10px;
+}
+
+.gif-area {
+   
+    display: flex; 
+    
+}
+
+.item {
+    margin: 5px;
+    float: left;
+    flex-flow: row nowrap;
+}
+
+
+p {
+    clear: both;
+}
+
+
