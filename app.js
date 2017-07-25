@@ -49,8 +49,8 @@ $(document).ready(function() {
   }
 
   $("#searchButton").on("click", function(event) {
-    event.preventDefault();
     
+
 
     var userInput = $("#search").val().trim();
     
